@@ -1,0 +1,8 @@
+{
+  "name": "avt-visit-app",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Ứng dụng theo dõi tần suất viếng thăm điểm bán và chấm điểm ảnh trưng bày",
+  "engines": { "node": ">=18" }
+}
